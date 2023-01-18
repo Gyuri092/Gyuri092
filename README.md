@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 
-<div style="width:100%;height:100%;background-color: #0f111a">
+<div style="width:100%;height:100%;background-color: #0f111a" align="center">
 
 <h3 style="width:100%;height:1%;padding-top:20px;color:#887CCA;text-align:center;"> Hello, guys! 👋 </h3>
 
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 </div>
 
-<div style="width:100%; height:4%;display:flex;justify-content:center">
+<div style="width:100%; height:4%;display:flex;justify-content:center" >
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGyuri092%2Fhit-counter&count_bg=%230E1F4F&title_bg=%23CFDAFF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 

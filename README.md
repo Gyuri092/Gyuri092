@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 <div style="width:100%;height:100%;background-color: #0f111a" align="center">
 
-<h3 style="width:100%;height:1%;padding-top:20px;color:#887CCA;text-align:center;"> Hello, guys! 👋 </h3>
+<h1 style="width:100%;height:1%;padding-top:20px;color:#887CCA;text-align:center;"> Hello, guys! 👋 </h1>
 
 <img style="width:100%;height:20%" src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=I'm%20like%20this!&fontSize=70&animation=fadeIn" />
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div style="width:50%;height:100%;display:flex;flex-direction:column;justify-content:space-between;">
 
 <div style="width:100%;height:50%;">
-<span style="font-size:120%;color:#887CCA;">👩‍💻keep studying...</span>   
+<h3 style="color:#887CCA;">👩‍💻keep studying...</h3>   
 </br>
 </br>
 

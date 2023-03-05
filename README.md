@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div style="width:50%;height:100%;display:flex;flex-direction:column;justify-content:space-between;">
 
 <div style="width:100%;height:50%;">
-<span style="font-size:20px;color:#887CCA;">👩‍💻keep studying...</span>   
+<span style="font-size:120%;color:#887CCA;">👩‍💻keep studying...</span>   
 </br>
 </br>
 

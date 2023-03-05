@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 <div style="width:50%;height:100%;display:flex;flex-direction:column;justify-content:space-between;">
 
 <div style="width:100%;height:50%;">
-<h3 style="color:#887CCA;">👩‍💻keep studying...</h3>   
-</br>
-</br>
+<h3 style="color:#887CCA;">👩‍💻keep studying...</h3>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gyuri092)](https://velog.io/@gyuri092)
 </br>

@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 </br>
 </div>
-</br></br></br>
+</br></br>
 <div style="width:100%; height:50%;display:flex;flex-direction:column;justify-content:space-between;">
 <div style="width:100%; height:50%; ">
 <div style="font-size:20px;color:#887CCA">🛠 Tech Stack 🛠</div>
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 ---
 
-</br></br></br>
+</br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGyuri092%2Fhit-counter&count_bg=%230E1F4F&title_bg=%23CFDAFF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 

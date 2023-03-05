@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 <img style="width:100%;height:20%" src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=I'm%20like%20this!&fontSize=70&animation=fadeIn" />
 
-</br>
+</br></br></br></br>
 
 <div style="width:100%;height:50%;padding:10px 30px;box-sizing:border-box;display:flex;">
 
@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyuri092&layout=compact&show_icons=true&theme=dracula)](https://github.com/Gyuri092/github-readme-stats)
 
-</br>
+</br></br>
 
 [![Gyuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyuri092&show_icons=true&theme=dracula)](https://github.com/Gyuri092/github-readme-stats)
-</br>
+</br></br>
 
 </div>
 

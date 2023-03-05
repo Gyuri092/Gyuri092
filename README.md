@@ -10,13 +10,18 @@ Here are some ideas to get you started:
 
 <img style="width:100%;height:20%" src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=I'm%20like%20this!&fontSize=70&animation=fadeIn" />
 
+</br>
+
 <div style="width:100%;height:50%;padding:10px 30px;box-sizing:border-box;display:flex;">
 
 <div style="width:60%">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyuri092&layout=compact&show_icons=true&theme=dracula)](https://github.com/Gyuri092/github-readme-stats)
 
+</br>
+
 [![Gyuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyuri092&show_icons=true&theme=dracula)](https://github.com/Gyuri092/github-readme-stats)
+</br>
 
 </div>
 
@@ -24,13 +29,17 @@ Here are some ideas to get you started:
 
 <div style="width:100%;height:50%;">
 <span style="font-size:20px;color:#887CCA;">👩‍💻keep studying...</span>   
-   
+</br>
+</br>
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gyuri092)](https://velog.io/@gyuri092)
+</br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mandy)](https://solved.ac/mandy)
 
+</br>
 </div>
-
+</br></br></br>
 <div style="width:100%; height:50%;display:flex;flex-direction:column;justify-content:space-between;">
 <div style="width:100%; height:50%; ">
 <div style="font-size:20px;color:#887CCA">🛠 Tech Stack 🛠</div>
@@ -45,7 +54,7 @@ Here are some ideas to get you started:
         <img style="height:100%" src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
     </div>
 </div>
-    
+ </br></br>   
        
 <div style="width:100%; height:50%; ">
 <div style="font-size:20px;color:#887CCA">📚 Studying 📚</div>
@@ -63,8 +72,10 @@ Here are some ideas to get you started:
 
 <div style="width:100%; height:4%;display:flex;justify-content:center" >
 
-* * *
-    
+---
+
+</br></br></br>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGyuri092%2Fhit-counter&count_bg=%230E1F4F&title_bg=%23CFDAFF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>

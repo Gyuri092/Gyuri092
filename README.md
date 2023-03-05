@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyuri092&layout=compact&show_icons=true&theme=dracula)](https://github.com/Gyuri092/github-readme-stats)
 
-</br></br>
-
 [![Gyuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyuri092&show_icons=true&theme=dracula)](https://github.com/Gyuri092/github-readme-stats)
 </br></br>
 
@@ -28,7 +26,7 @@ Here are some ideas to get you started:
 <div style="width:50%;height:100%;display:flex;flex-direction:column;justify-content:space-between;">
 
 <div style="width:100%;height:50%;">
-<span style="font-size:20px;color:#887CCA;">👩‍💻keep studying...</span>   
+### 👩‍💻keep studying...
 </br>
 </br>
 

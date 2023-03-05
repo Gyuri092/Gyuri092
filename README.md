@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 <img style="width:100%;height:20%" src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=I'm%20like%20this!&fontSize=70&animation=fadeIn" />
 
-</br></br></br></br>
+</br></br>
 
 <div style="width:100%;height:50%;padding:10px 30px;box-sizing:border-box;display:flex;">
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div style="width:50%;height:100%;display:flex;flex-direction:column;justify-content:space-between;">
 
 <div style="width:100%;height:50%;">
-### 👩‍💻keep studying...
+<span style="font-size:20px;color:#887CCA;">👩‍💻keep studying...</span>   
 </br>
 </br>
 
